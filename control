@@ -1,0 +1,9 @@
+Package: com.mrgcgamer.darknotifi
+Name: DarkNotifi
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Darkmode only notifications!
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
